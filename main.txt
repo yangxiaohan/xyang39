@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 It was six men of Indostan 
     To learning much inclined, 
 Who went to see the Elephant 
     (Though all of them were blind), 
 That each by observation Might satisfy his mind.
+=======
+The First approached the Elephant, 
+    And happening to fall 
+Against his broad and sturdy side, 
+    At once began to bawl: “God bless! but the Elephant 
+Is very like a wall!” 
+>>>>>>> f1e692077ebb14dda365f693c8d1d0d0f46c9593

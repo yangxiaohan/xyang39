@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 It was six men of Indostan 
     To learning much inclined, 
 Who went to see the Elephant 
@@ -30,11 +29,10 @@ The Fourth reached out an eager hand,
     Is mighty plain,” quoth he; “ 
 ’Tis clear enough the Elephant 
     Is very like a tree!” 
-=======
+
 The Fifth who chanced to touch the ear, 
     Said: “E’en the blindest man 
 Can tell what this resembles most; 
     Deny the fact who can, 
 This marvel of an 
     Elephant Is very like a fan!” 
->>>>>>> ef35b16d36153b6b94d23b09d6396d75a94d6f6f
